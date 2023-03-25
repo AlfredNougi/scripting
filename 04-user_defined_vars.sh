@@ -1,7 +1,7 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :myLANDMARK.tech S Legah
+#author		     :myLANDMARK.tech S Legah      Alfred walter mickael
 #date            :08112012
 #version         :1.0    
 #Tel		     :437 215 2483
